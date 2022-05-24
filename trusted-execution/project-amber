@@ -1,0 +1,14 @@
+# Project Amber
+
+Project Amber is an remote attestation service, launched by Intel but purportedly operating *outside* of Intel as an independent trust authority. Let's explore how this might work.
+
+## Vision 2022 Press Release
+
+I'll summarize the contents of this link here: https://www.intel.com/content/www/us/en/newsroom/news/vision-2022-project-amber-security.html
+
+Project Amber is the first step in creating a multi-cloud TEE environment, for third party attestation. It is/can:
+- cloud agnostic, working within private and hybrid cloud environments
+- support confidential computing workloads running on bare metal containers, VMs, or containers
+- operate independent of the infrastructure provider hosting the confidential compute workloads
+
+... that's it I suppose, the details on project Amber are pretty light, and I'll have to update this page when I get more information
